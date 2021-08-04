@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manoj-vbm
-- 👀 I’m interested in software development
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Software development
 - 📫 How to reach me manoj.vbm@gmail.com
