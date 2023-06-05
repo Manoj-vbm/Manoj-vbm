@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manoj-vbm
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python, SQL and Data science
-- 💞️ I’m looking to collaborate on Software development
+- 👋 Hi, I’m Manoj
+- 👀 I am a Data science student 
+- 🌱 I’m currently learning NLP
+- 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me manoj.vbm@gmail.com
 
 <!---
